@@ -1,0 +1,5 @@
+{
+    "subscription_id": "d87c2610-2653-4ec8-aa6b-1aa1edd5ec61",
+    "resource_group": "poc_aml",
+    "workspace_name": "isolation_forest"
+}
