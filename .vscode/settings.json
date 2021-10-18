@@ -1,4 +1,4 @@
 {
     "ai.azureml.defaultWorkspaceId": "/subscriptions/d87c2610-2653-4ec8-aa6b-1aa1edd5ec61/resourceGroups/poc_aml/providers/Microsoft.MachineLearningServices/workspaces/isolation_forest",
-    "python.pythonPath": "/Users/aniekwesterman/.azureml/envs/azureml_2d0fd20031db3baaed8684d5f08fe619/bin/python"
+    "python.pythonPath": "/Users/aniekwesterman/opt/anaconda3/bin/python"
 }

@@ -31,7 +31,7 @@ X, y = diabetes[['Pregnancies','PlasmaGlucose','DiastolicBloodPressure','Triceps
 # Split data into training set and test set
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.30, random_state=0)
 
-# Train adecision tree model
+# Train a decision tree model
 print('Training a decision tree model...')
 model = DecisionTreeClassifier().fit(X_train, y_train)
 

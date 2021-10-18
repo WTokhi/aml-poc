@@ -1,4 +1,3 @@
-# use argparser to create the script. this gives you more control.
 # Import libraries
 import os
 import argparse
